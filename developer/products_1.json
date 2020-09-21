@@ -51,5 +51,5 @@
 		{"id":99,"title":"Beef Dry Aged Tenderloin Aaa","price":"41.66","image":"http://placekitten.com/g/325/350"},
 		{"id":100,"title":"Icecream - Dstk Super Cone","price":"184.50","image":"http://placekitten.com/g/333/335"}
 	],
-	"next": "/feed/products_2.json"
+	"next": "https://raw.githubusercontent.com/helloretail/interview-task-data/master/developer/products_2.json"
 }
