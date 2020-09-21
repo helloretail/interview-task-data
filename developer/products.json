@@ -51,5 +51,5 @@
 		{"id":49,"title":"Stock - Beef, Brown","price":"806.71","image":"http://placekitten.com/g/365/394"},
 		{"id":50,"title":"Water - Tonic","price":"470.74","image":"http://placekitten.com/g/331/397"}
 	],
-	"next": "/feed/products_1.json"
+	"next": "https://raw.githubusercontent.com/helloretail/interview-task-data/master/developer/products_1.json"
 }
